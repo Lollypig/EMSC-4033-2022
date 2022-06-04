@@ -16,7 +16,7 @@ Inside it, we have the mapmaker file, **Map.ipynb** and a test file **Run_tests.
 
 **Map.ipynb and Run_tests.ipynb files**
 
-To run the mapmaker and the corresponding tests, open the third and fourth files, **Map.ipynb** and **Run_tests.ipynb** respectively. Simply run **Map.ipynb** and you will produce a map. Running **Run_tests.ipynb** will show you whether the written tests for the functions have passed, and if not, what errors have occurred.
+To run the mapmaker and the corresponding tests, **Map.ipynb** and **Run_tests.ipynb** respectively. Simply run **Map.ipynb** and you will produce a map. Running **Run_tests.ipynb** will show you whether the written tests for the functions have passed, and if not, what errors have occurred.
 
 **assets folder**
 
